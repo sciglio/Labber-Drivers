@@ -1,2 +1,2 @@
 # Labber-Drivers
-Just a repository with some driver for Labber 
+Just a repository with some drivers for Labber 
